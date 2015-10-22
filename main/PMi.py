@@ -9,6 +9,5 @@ def beyza(a):
     
 def hacer(a):
     return 2*a
-    
-def deneme(z):
-    print 'hahaha'
+def mul3(k):
+    return 3*k
