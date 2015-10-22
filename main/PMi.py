@@ -9,5 +9,4 @@ def beyza(a):
     
 def hacer(a):
     return 2*a
-def mul3(k):
-    return 3*k
+
