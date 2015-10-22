@@ -7,6 +7,6 @@ def summing(a,b):
 def beyza(a):
     return a
     
-def hacer(a):
-    return 2*a
+def hacer():
+    print 'hacer'
 
