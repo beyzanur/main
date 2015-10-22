@@ -8,5 +8,5 @@ def beyza(a):
     return a
     
 def hacer():
-    print 'hacer'
+    print 'hacr'
 
