@@ -10,3 +10,5 @@ def beyza(a):
 def hacer():
     print 'hacr'
 
+print 'lalalalalalal'
+
